@@ -1,8 +1,8 @@
 # code-maps-frontend
 
-Page will be updated with slides after the conference.
+- [Slides](https://slides.com/cameronyick/frontend-code-maps)
 
-Please send me maps of code that you either make or find online.
+Please feel welcome to send me maps of code that either you make or find online.
 
 ## Readings
 
@@ -74,4 +74,4 @@ If you're read this far, you might also like these non-frontend specific resourc
 
 If you see a resource that you think would be appropriate to include in this list, I welcome pull requests/issues.
 
-In the future, the "recommended/cut for time" sections might split into a separate list of curated resources, and limit this document to items used specifically mentioned in the talk.
+In the future, the "recommended/cut for time" sections might split into a separate list of curated resources. In that case, this document will be limited to items specifically mentioned in the talk.
