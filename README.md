@@ -1,8 +1,11 @@
 # code-maps-frontend
 
-- [Slides](https://slides.com/cameronyick/frontend-code-maps)
+## slides
 
-Please feel welcome to send me maps of code that either you make or find online.
+- [React Conf 2019](#) - Coming Soon
+- [React Boston](https://slides.com/cameronyick/frontend-code-maps)
+
+Please feel welcome to send me maps of code that you have made or find elsewhere.
 
 ## Readings
 
@@ -32,6 +35,7 @@ Please feel welcome to send me maps of code that either you make or find online.
     - [Madge](https://github.com/pahen/madge)
   - Functions as Nodes
     - Dynamic Callgraphs (Browser Devtools)
+    - Python/C Tools
     - Static Callgraphs: [js-callgraph](https://github.com/Persper/js-callgraph)
   - Variables as Nodes
     - [Observable Debugger](https://observablehq.com/@mbostock/notebook-visualizer)
