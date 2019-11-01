@@ -28,7 +28,7 @@ Please feel welcome to send me maps of code that you have made or find elsewhere
 
 - Visual + Node Based Programming (not necessarily JS)
   - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex)
-  - Collections on are.na such as [Frederic Brodbeck's](https://www.are.na/frederic-brodbeck/dataflow-programming)or [@round](https://www.are.na/maxim-leyzerovich/visual-programming-aedh3fsg8nm)'s. Still working on curating my own.
+  - Collections on are.na such as [Frederic Brodbeck's](https://www.are.na/frederic-brodbeck/dataflow-programming) or [@round](https://www.are.na/maxim-leyzerovich/visual-programming-aedh3fsg8nm)'s. Still working on curating my own.
 
 - JS+TS Exploration
   - Files as Nodes
@@ -36,8 +36,8 @@ Please feel welcome to send me maps of code that you have made or find elsewhere
     - [Dependency-Cruiser](https://github.com/sverweij/dependency-cruiser)
     - [Madge](https://github.com/pahen/madge)
   - Functions as Nodes
-    - Dynamic Callgraphs (Browser Devtools)
-    - Python/C Tools
+    - Dynamic Callgraphs (Browser Devtools, [Flamebearer](https://github.com/mapbox/flamebearer))
+    - Python/C Tools: [Pyan](https://github.com/davidfraser/pyan)
     - Static Callgraphs: [js-callgraph](https://github.com/Persper/js-callgraph)
   - Variables as Nodes
     - [Observable Debugger](https://observablehq.com/@mbostock/notebook-visualizer)
