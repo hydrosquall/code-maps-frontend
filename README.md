@@ -52,13 +52,14 @@ Please feel welcome to send me maps of code that you have made or find elsewhere
   - Visualizing Audio Transformation DAGs: [NFGrapherJS](https://github.com/spotify/NFGrapher/issues/5)
 
 - Influenced but not directly mentioned
-  - Alternate network layouts
+  - Alternate network layouts (Hive plots, biofabric)
+    - [The State of the Art in Visualizing Multivariate Networks](https://vdl.sci.utah.edu/publications/2019_eurovis_mvn/)
   - Generic graph analysis tools (Cytoscape + Gephi + Neo4j viewer)
   - Codecrumbs / Structuralizr TS / Dependo
   - Visual tools for performance/bundle optimization / code growth
     - Gource, Codeflower, hercules, git-of-theseus, bundlebuddy, etc
   - Bret Victor / Mindstorms (Papert) on tangible computing
-  - Susie Lu's Keynote at Visfest Unconf 2019
+  - Susie Lu's Keynote at Visfest Unconf 2019 - [Data Visualization Retrospective and Abstractions](https://www.susielu.com/data-viz/abstractions)
 
 ## Demos
 
