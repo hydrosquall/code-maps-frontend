@@ -1,9 +1,11 @@
 # code-maps-frontend
 
-## slides
+Exploring the idea of using interactive auto-generated diagrams to make frontend code more understandable.
 
-- [React Conf 2019](#) - Coming Soon
-- [React Boston](https://slides.com/cameronyick/frontend-code-maps)
+## Presentations
+
+- [October 2019] React Conf: [Slides](https://slides.com/cameronyick/frontend-maps-react-conf-2019) / [Video](https://www.youtube.com/watch?v=SbreAPNmZOk)
+- [September 2019] React Boston : [Slides](https://slides.com/cameronyick/frontend-code-maps) / [Video](https://www.youtube.com/watch?v=iS3BNfbDXzE)
 
 Please feel welcome to send me maps of code that you have made or find elsewhere.
 
