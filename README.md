@@ -63,9 +63,9 @@ Please feel welcome to send me maps of code that you have made or find elsewhere
 
 ## Demos
 
+- [Electron Demos from Section 3](https://github.com/hydrosquall/interactive-js-map)
 - [Historical Train Schedule Remake](https://slides.com/cameronyick/metronorth-train-viz)
 - [Github Radial Repository](https://github.com/hydrosquall/untitled-code-map) - An Electron version of an demo by Amelia Wattenberger. Not from the presentation, but explores related ideas.
-- _In  Progress_: Link to Github repository after user testing finishes.
 
 ## Related Readings / Watches
 
