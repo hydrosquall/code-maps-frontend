@@ -4,7 +4,7 @@ Exploring the idea of using interactive auto-generated diagrams to make frontend
 
 ## Presentations
 
-- [October 2019] React Conf: [Slides](https://slides.com/cameronyick/frontend-maps-react-conf-2019) / [Video](https://www.youtube.com/watch?v=SbreAPNmZOk)
+- [October 2019] React Conf: [Slides](https://slides.com/cameronyick/frontend-maps-react-conf-2019) / [Video](https://www.youtube.com/watch?v=SbreAPNmZOk) / [Transcript](https://www.datadoghq.com/videos/2020-auto-viz-of-the-frontend/)
 - [September 2019] React Boston : [Slides](https://slides.com/cameronyick/frontend-code-maps) / [Video](https://www.youtube.com/watch?v=iS3BNfbDXzE)
 
 Please feel welcome to send me maps of code that you have made or find elsewhere.
@@ -64,6 +64,7 @@ Please feel welcome to send me maps of code that you have made or find elsewhere
 ## Demos
 
 - [Historical Train Schedule Remake](https://slides.com/cameronyick/metronorth-train-viz)
+- [Github Radial Repository](https://github.com/hydrosquall/untitled-code-map) - An Electron version of an demo by Amelia Wattenberger. Not from the presentation, but explores related ideas.
 - _In  Progress_: Link to Github repository after user testing finishes.
 
 ## Related Readings / Watches
